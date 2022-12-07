@@ -1,0 +1,13 @@
+body {
+    background-image: url(./fundo.jpg);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#mostra{
+    color: yellow;
+}
+#mostrachar{
+    color: yellow;
+    z-index: -1;
+}
